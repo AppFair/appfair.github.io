@@ -15,9 +15,9 @@ Anyone can create an app for the App Fair, just as anyone can instantiate a Fair
 
 The current model of how an app gets from a developer to a consumer/user is to have a single intermediary “store” that serves as the clearinghouse for all apps that can be installed on a certain vendor's device. The user generally trusts the vendor (colored gold in the diagram), and thereby transitively trusts any app creator (colored orange) whose app makes it through to the storefront. 
 
-The App Store vendor does not require access to the source code of the app creator, and so trust is maintained through the contractual relationship between the two parties that provide economoic and legal consequence to the App Creator for discovered bad behavior (such as malware, viruses, spyware, etc.). 
+The App Store vendor does not require access to the source code of the app creator, and so trust is maintained through the contractual relationship between the two parties that enables a dependent economoic relationship and legal consequence to the App Creator for discovered bad behavior (such as malware, viruses, spyware, etc.). 
 
-Such remediation is often effective but can be unevenly applied due to subjective factors and priorities on the part of the App Store vendor. The consequence is that many applications advertised in the centralized stores and untrustworthy or outright malicious.
+Such remediation is often effective but can be unevenly applied due to subjective factors and priorities on the part of the App Store vendor. The consequence is that many applications advertised in the centralized stores and untrustworthy or outright malicious. In addition, the App Store vendor may enact policies that are hostile to both the end-user as well as the app creator, such as advertising, tracking, and the imposition of economic rents or “taxes” on all commerce that flows through their domains.
 
 ```mermaid
 flowchart LR
@@ -213,7 +213,7 @@ At the end of this Quick Start guide, you will have your own app published and a
   * At the bottom of the page, enable the "`This is a pre-release`" checkbox then hit the **Publish release** button.
   <img style="width: 75%; max-width: 1000px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Actions run screen" src="assets/quickstart-create-release.png" />
   <img style="width: 75%; max-width: 750px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Actions run screen" src="assets/quickstart-publish-release.png" />
-  7. Return to the **`Actions`** tab and wait for the "_Fork Apply_" workflow run to complete. 
+  7. Return to the **`Actions`** tab and wait for the release workflow run to complete. 
   * This process builds your app and releases a binary artifact.
   <img style="width: 75%; max-width: 1064px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Actions run screen" src="assets/quickstart-release-action-running.png" />
   <img style="width: 75%; max-width: 1100px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Actions run screen" src="assets/quickstart-release-action-success.png" />
@@ -258,12 +258,12 @@ It handles organization verification, app build validation, and cataloging of al
 The "App Fair" is the reference implementation of the fair-ground system, and is implemented as a set of GitHub repositories, workflows, and policies for cataloging the build artifacts of the app forks.
 The configuration for the App Fair is defined primarily in the [appfair/App.git](https://github.com/appfair/App.git) repository, which additionally acts as the base repository to be forked by app developers.
 
-### Introduction: the FAIR process
+### Introduction: the fairground process
 
 <img align="left" width="450" alt="Diagram of the App Fair process" src="assets/fairground.svg" />
 
-"Fork-Apply/Integrate-Release" (FAIR) describes the stages of creating, developing, building, and distributing an app.
-The "Fork" and "Apply" parts are handled by you, the developer: a fork is created from the base [`/appfair/App.git`](https://github.com/appfair/App.git) repository, and in that fork you develop your app.
+The fairground process consists of the stages of creating, developing, building, and distributing an app.
+The creation, development, and release is handled by you, the developer: a fork is created from the base [`/appfair/App.git`](https://github.com/appfair/App.git) repository, and in that fork you develop your app.
 Once you enable GitHub actions for your fork, your app will be automatically built and released whenever you push a semantic version tag to your fork's repository.
 Since this fork is under the control of the developer, the fork is considered "untrusted", in that the app binary artifact that is built and released has no security or safety guarantees.
 
@@ -299,7 +299,7 @@ For example, the GitHub organization for the <a href="https://appfair.app" targe
 
 Your app organization can be structured however you want, and can consist of a team of as few or as many as you like. 
 You can manage, create and distribute multiple apps by creating multiple separate uniquely-named organizations.
-Each organization will have a single top-level `/App.git` fork that acts as the repository for your app's development and uses pull requests as the communication link to the `integrate-release` process.
+Each organization will have a single top-level `/App.git` fork that acts as the repository for your app's development and uses pull requests as the communication link to the reproduction process.
 There can be only a single `/App.git` repository per organization.
 
 ### App Repository
@@ -355,7 +355,7 @@ In addition, at the top level of the repository, there are `Xcode`-specific proj
 
 App development should be done by opening `App.xcworkspace` using `Xcode.app` to build, run, and debug the `SwiftUI` app that is defined in `Sources/App/AppContainer.swift`.
 Note, however, that changes to these project files, `App.xcworkspace` and `project.xcodeproj`, will *not* be incorporated into the final project.
-It will be best not to make changes to the project files themselves, since none of the changes will be used in the eventual `integrate-release` stages of the process.
+It will be best not to make changes to the project files themselves, since none of the changes will be used in the eventual reproduction stages of the process.
 Specifically, your build must not rely on any script build stages that you add to the project files since these scripts will not be run during `I-R`.
 
 When adding project files, they should be added directly to the `App` Swift package's `Sources/App/` folder or a sub-folder that you create.
@@ -389,7 +389,7 @@ fairtool fair validate --verbose true --hub github.com/appfair --org App-Name --
 ### AppContainer.swift and AppMain.swift
 
 The `Sources/App/AppMain.swift` is the entry point to your app on all available platforms.
-The contents of the file must not be changed; otherwise, validation of your project will fail at the `integrate` stage.
+The contents of the file must not be changed; otherwise, validation of your project will fail at the reproduction stage.
 
 To customize your app, you should instead start by editing the `AppContainer` extension in `Sources/App/AppContainer.swift` to provide the required protocol implementations for your app's root view.
 
@@ -404,7 +404,7 @@ Fair contains the code for the following aspects of a fair-ground:
 
 All apps distributed through a fair-ground such as the App Fair must include the HEAD of the `Fair` library as their initial dependency.
 This ensures that all integrated apps are always up-to-date with respect to feature improvements, bug fixes, and security enhancements that may be made to the container environment.
-This requirement is enforced during the `integrate-release` stage.
+This requirement is enforced during the reproduction and validation stages.
 
 ## fairtool
 
@@ -552,7 +552,7 @@ Once the developer is ready to create another new release, they can simply open 
 Once the Integration-Release PR has been created, you will see a status update at the bottom of the PR:
 
 ```
-"Integrate Release" (pull_request_target) In progress — This check has started... (Details)
+"Reproduction and Validation" (pull_request_target) In progress — This check has started... (Details)
 ```
 
 Clicking the `details` link will show a live log of the `Integration-Release` process for the base `/App.git` repository.
@@ -574,7 +574,7 @@ These tags must be mirrored in the `APP_CATEGORY` property of your app's `appfai
 For example, the "appfair-games" GitHub topic should be represented using the "public.app-category.games" value for the `APP_CATEGORY`.
 
 A mis-match between the GitHub topic name and the `APP_CATEGORY` setting for the most recent release build will cause the app to be excluded from the catalog.
-Since changing the category requires the issuing of a new release, changing the GitHub topic should be timed to happen before the initiation of the `integrate-release` pull request.
+Since changing the category requires the issuing of a new release, changing the GitHub topic should be timed to happen before the initiation of the reproduction pull request.
 
 ### App Icons & Colors
 
@@ -629,7 +629,7 @@ If two screenshots are named the same thing with only the exception of the `mode
 ## App Fair Catalog Requirements 
 
 The "App Fair" catalog is the list of validated app releases, cross-referenced with the metadata for the `/App.git` forks: issues, discussions, support info, wikis, project web site, etc.
-The catalog is automatically re-generated after each successful `integrate-release` stage, and it is also periodically refreshed to re-validate the forks and ensure that only valid entries are included in the list of installable apps.
+The catalog is automatically re-generated after each successful reproduction and validation stages, and it is also periodically refreshed to re-validate the forks and ensure that only valid entries are included in the list of installable apps.
 
 ### Org Requirements
 
@@ -782,7 +782,7 @@ An element of the "apps" array will contain the following properties:
 
 ### Catalog Generation
 
-The catalog is automatically constructed from the list of all the [forks of the appfair/App.git](https://github.com/appfair/App/network/members) who have passed the `integrate-release` stages and have a released artifact, and whose organizations are valid (e.g., have a valid app name and have issues and discussions enabled).
+The catalog is automatically constructed from the list of all the [forks of the appfair/App.git](https://github.com/appfair/App/network/members) who have passed the reproduction and validation stages and have a released artifact, and whose organizations are valid (e.g., have a valid app name and have issues and discussions enabled).
 
 The [fairtool](#fairtool) `fair catalog` command is used to generate the catalog using the GitHub GraphQL API.
 
@@ -890,7 +890,7 @@ The App Fair integration process requires that all software be hardened and sand
 
 ### Source Transparency
 
-The App Fair's `integrate-release` build process is automatic; there is no individual review of apps when they are initially submitted, nor is there any manual review process for update releases.
+The App Fair's reproduction and validation build process is automatic; there is no individual review of apps when they are initially submitted, nor is there any manual review process for update releases.
 This allows the release and update processes to be free of delays and keeps the catalog unencumbered by the subjective judgements of human reviewers.
 It also precludes the possibility of any pre-distribution "gate-keeping" to enforce content or policy.
 
@@ -904,14 +904,14 @@ In addition, a requirement that all the code be hosted in publicly-available Git
 
 The App Fair's build process signs the release's binary artifacts with an ad-hoc code signing certificate.
 While this satisfies the policy requirements of certain platforms and provides some protection against tampering, this ad-hoc signature itself does not confer any useful identifying information.
-The signature is essentially an anonymous seal on the binary placed on it by the `integrate-release` build stages.
+The signature is essentially an anonymous seal on the binary placed on it by the reproduction and validation build stages.
 
-Instead, the App Fair provides author accountability and identifiability by requiring that any commit that triggers the `integrate-release` process needs to be marked as `verified` by GitHub.
+Instead, the App Fair provides author accountability and identifiability by requiring that any commit that triggers the reproduction and validation workflow needs to be marked as `verified` by GitHub.
 This means that the commit itself is cryptographically signed.
 This signature must be associated with a public e-mail address, and that address must be associated with the developer's GitHub account.
 The address does not need to be the primary address for the user, but it does need to be listed in the developer's validated public e-mail addresses at [https://github.com/settings/profile](https://github.com/settings/profile).
 
-The simplest way to sign your PR commit is to simply use the GitHub web interface whenever you update your PR to trigger the `integrate-release` stages.
+The simplest way to sign your PR commit is to simply use the GitHub web interface whenever you update your PR to trigger the reproduction and validation stages.
 GitHub will mark any commit that you make using their web interface as being "verified" with whichever of the e-mail addresses you have configured with them.
 
 Alternatively, you can sign commits from the `Terminal.app` using the `gpg` tool, which you can install using `homebrew`.
@@ -924,13 +924,13 @@ For information on setting up commit signing, see the following documentation:
   * [Setting your commit email address](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address)
 
 
-Note that only the commit that creates or updates the `integrate` PR is required to be signed.
+Note that only the commit that creates or updates the reproduction PR is required to be signed.
 Commits to the fork's repository itself, or to any third-party dependency repositories, do not need to be signed (although it is always encouraged). 
 For this reason, it is the creator of the PR's commit that is considered to be the "author" of the app in terms of validation and accountability.
 
 ### Release Artifact Scanning
 
-In addition to protections that may be provided by GitHub's own source and binary artifact scanning, the `integrate-release` stage performs virus and malware scanning on released artifacts before it will issue a `fairseal`.
+In addition to protections that may be provided by GitHub's own source and binary artifact scanning, the reproduction and validation stages performs virus and malware scanning on released artifacts before it will issue a `fairseal`.
 This provides an additional pre-publication line of defense against any malicious payloads that may manage to get bundled in with the release artifacts.
 
 Along with these preventative layers of protection, macOS itself provides multiple independent remedial protections against malicious binaries:
@@ -1156,7 +1156,7 @@ information through the `Bundle.main.infoDictionary` API.
 
 ### Can I create App Extensions?
 
-Since the `project.xcodeproj` is not modifiable, any extensions that are added to your project will not be built by the `integrate-release` stages, and so cannot be included in the catalog.
+Since the `project.xcodeproj` is not modifiable, any extensions that are added to your project will not be built by the reproduction and validation stages, and so cannot be included in the catalog.
 
 For this reason, extensions are not yet supported.
 
@@ -1213,11 +1213,11 @@ Projects that build other languages, especially C and C++, may need special cons
 
 ### Can I change the artifacts for a published release?
 
-The Integrate-Release stages are run only once for any given release. 
+The reproduction and validation stages are run only once for any given release. 
 The published artifacts are analyzed at the time of the release and the cryptographic (SHA-256) hashes are posted as part of the `fairseal`.
 These hashes cannot be changed for a given release, so any conforming catalog application will reject downloading or installing any artifact contents that do not match their corresponding `fairseal` hashes.
 
-If a release needs to be updated, a new release should be published, which will initiate the Integrate-Release stages to create a new `fairseal`.
+If a release needs to be updated, a new release should be published, which will initiate the reproduction and validation stages to create a new `fairseal`.
 
 ### How can I change the category of my app in the `App Fair.app` catalog?
 
@@ -1243,7 +1243,7 @@ There are no restrictions on the kinds of apps that you can build and distribute
 The App Fair welcomes all apps: games, utilities, experiments, student projects, artistic and literary works, vanity and toy apps, demos, tests, and, especially, re-mixes of other App Fair apps.
 
 Since the App Fair is an automated system, there is no human review. 
-The only requirement for an app to be included in the App Fair catalog is that it pass the automated validation stages of the `integrate-release` process.
+The only requirement for an app to be included in the App Fair catalog is that it pass the automated validation stages of the reproduction and validation process.
 
 Projects and organizations will, however, need to abide by the rules and restrictions of the hosting environment (which, in the case of the App Fair fair-ground, is GitHub).
 
@@ -1308,9 +1308,9 @@ These settings should also match the `APP_CATEGORY` property in your `appfair.xc
 
 ### How is e-mail verification performed?
 
-The GPG signature of the initiator of the `integrate-release` pull request must be for an approved e-mail address and the commit must be [verified](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/about-commit-signature-verification).
+The GPG signature of the initiator of the reproduction pull request must be for an approved e-mail address and the commit must be [verified](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/about-commit-signature-verification).
 
-You must have a valid e-mail address configured in your list of keys in your [GPG keys settings](https://github.com/settings/keys), and this is the address that must be associated with the commit that triggers the `integrate-release` process.
+You must have a valid e-mail address configured in your list of keys in your [GPG keys settings](https://github.com/settings/keys), and this is the address that must be associated with the commit that triggers the reproduction and validation process.
 
 
 ### Can I distribute my app using other distribution channels?
@@ -1344,7 +1344,7 @@ Since discussions and issues are required in order to provide users with a chann
 
 ### How can I have someone else's app removed from the App Fair?
 
-As the App Fair's `integrate-release` process is automatic, there is no mechanism for direct management of, or intervention in, the app release process. 
+As the App Fair's reproduction and validation process is automatic, there is no mechanism for direct management of, or intervention in, the app release process. 
 Each app that is listed in that app's GitHub repository, which is required to have issues and discussions enabled.
 You can use these forums to contact the developer(s) of the app.
 Organizations that are removed from GitHub will have the effect of removing that organization's app from being visible or installable from the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog.
@@ -1377,7 +1377,7 @@ No. Only macOS and iOS builds are currently supported.
 
 ### Can I use App Fair release artifacts with other distribution channels?
 
-The binaries created by the `integrate-release` stage are standard `.zip` and `.ipa` archives and are suitable for distributing via any compatible app distribution mechanism such as homebrew, the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser application, or simply dragging-and-dropping into a folder.
+The binaries created by the release stage are standard `.zip` and `.ipa` archives and are suitable for distributing via any compatible app distribution mechanism such as homebrew, the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser application, or simply dragging-and-dropping into a folder.
 
 ### Which native frameworks will my app be able to use?
 
@@ -1390,7 +1390,7 @@ Note that any frameworks your app depends on must be available on *both* `macOS`
 
 ### What kinds of source files can I include with my app?
 
-The App Fair's `integrate-release` process uses the [Swift Package Manager (SPM)](https://swift.org/package-manager/) tool for building both your `/App-Name/App.git` fork, as well as all the third-party dependencies.
+The App Fair's reproduction and validation process uses the [Swift Package Manager (SPM)](https://swift.org/package-manager/) tool for building both your `/App-Name/App.git` fork, as well as all the third-party dependencies.
 SPM is focused primarily on the Swift language, but it can be used to build wide variety of other languages as well.
 
 The developer must be mindful that any compilation artifact must be exactly reproducible in order to pass the fair-ground's integration-release stages.
@@ -1406,7 +1406,7 @@ Yes.
 The App Fair expects that your app will conform to the protocols defined in the `FairApp` library.
 Your app must import the `FairApp` module and implement the `AppContainer` protocol.
 
-The App Fair's `integrate-release` process will validate your `Package.swift` file to ensure that the initial dependency for your app is `appfair/Fair`, and that it points directly to the `main` branch. 
+The App Fair's reproduction and validation process will validate your `Package.swift` file to ensure that the initial dependency for your app is `appfair/Fair`, and that it points directly to the `main` branch. 
 
 ### Can I load executable code at runtime?
 
@@ -1415,7 +1415,7 @@ This is to help ensure the App Fair's "Source Transparency" mandate.
 
 ### How large are App Fair apps?
 
-Since they use the built-in native frameworks included with the host OS, App Fair apps are generally smaller than those built with cross-platform technologies that need to embed large components. An App Fair app's download size can be under 1 megabyte. There is a 100 megabyte limit to the size of app that will be deployed in the `integrate-release` stages.
+Since they use the built-in native frameworks included with the host OS, App Fair apps are generally smaller than those built with cross-platform technologies that need to embed large components. An App Fair app's download size can be under 1 megabyte. There is a 100 megabyte limit to the size of app that will be deployed in the reproduction and validation stages.
 
 ### Do App Fair apps auto-update?
 
@@ -1473,7 +1473,7 @@ No.
 You can only specify the HEAD branch (`main`) as the `Fair.git` dependency.
 This is the ensure that distributed apps are always up-to-date with respect to security validation features and enhancements to the app's runtime environment.
 Since the `FairCore` and `FairApp` modules have no dependencies, these modules are also safe to reference from external dependencies that your app may include in its `Package.swift` definition. 
-Improvements to these `Fair` modules will be automatically included in any subsequent `integrate-release` processes, and so improvements to this library will immediately be available to see for any fair-ground app developer.
+Improvements to these `Fair` modules will be automatically included in any subsequent reproduction and validation processes, and so improvements to this library will immediately be available to see for any fair-ground app developer.
 
 ### Do I need a Mac to develop App Fair apps?
 
@@ -1482,17 +1482,17 @@ Since the Integration and Release stages of the App Fair process are all run in 
 
 In practice, however, to develop anything but the most trivial of apps requires being able to use a modern IDE, debugger, and the ability to run your app locally in order to test and refine the behavior.
 
-### Why is my `integrate` pull request never merged?
+### Why is my reproduction pull request never merged?
 
-Your `integrate` PRs are not intended to ever be merged into the [appfair/App.git](https://github.com/appfair/App/pulls) repository.
-Rather, they are required merely to trigger the `pull_request_target` GitHub action that initiates the `integrate-release` stages.
+Your reproduction PRs are not intended to ever be merged into the [appfair/App.git](https://github.com/appfair/App/pulls) repository.
+Rather, they are required merely to trigger the `pull_request_target` GitHub action that initiates the reproduction and validation stages.
 
 ### Are App Fair apps signed?
 
 Yes. 
 As of macOS 12, all apps must be signed in order to run on every native architecture.
 The same requirement exists for iOS.
-The `Integrate` stage of the App Fair process signs the app with an ad-hoc signing certificate in order to satisfy this requirement.
+The `Reproduction` stage of the App Fair process signs the app with an ad-hoc signing certificate in order to satisfy this requirement.
 
 ### What is ad-hoc code signing?
 
@@ -1545,7 +1545,7 @@ Typically, the source errors is the format of the `NOTARY_CERTKEY_P12_BASE64` se
 ### How are App Fair apps scanned for viruses and malware?
 
 In addition to any automated scans of release artifacts by the
-hosting platform itself (GitHub), the `integrate-release` stage
+hosting platform itself (GitHub), the validation stage
 runs a virus and malware scanner on the binaries before
 issuing a `fairseal`.
 
@@ -1572,13 +1572,13 @@ End Date:   2021:12:04 15:19:47
 
 ### How do I diagnose failures in the "Generate fairseal" stage?
 
-On occasion, the `Integrate Release` stage may fail with an error like:
+On occasion, the reproduction stage may fail with an error like:
 
 ```
 fairtool error: Trusted and untrusted artifact content mismatch at App Name.app/Contents/Frameworks/App.framework/Versions/A/App: 1 insertions in 1 ranges ["19145..<19146"] and 1 removals in 1 ranges ["19145..<19146"] and totalChanges 2 beyond permitted threshold: 0
 ```
 
-This is a known issue with the validation that the integrated app match is identical to the released app binary. For unknown reasons, the binary created by the `fork-apply` stage is not identical to the `integrate-release` reproduction (possibly due to alignment issues with the code signing). 
+This is a known issue with the validation that the integrated app match is identical to the released app binary. For unknown reasons, the binary created by the release workflow not identical to the reproduction (possibly due to alignment issues with the code signing). 
 
 The only known work-around at this time is to make some change to your app's fork (it can be a trivial change, but it must result in a difference in the compiled binary) and then re-run the FAIR process with a new version.
 
@@ -1680,9 +1680,9 @@ Along with these preventative layers of protection, the underlying system also p
 
   * The "Malware Removal Tool" (MRT) process remediates infections based on automatic updates of system data files and security information. The MRT removes malware upon receiving updated information, and it continues to check for infections over time.
 
-### Does the integrate stage run an App's test cases?
+### Does the reproduction stage run an App's test cases?
 
-The `integrate-release` stages of the fair-ground are run in the trusted environment of the base repository by way of a [pull_request_target](https://docs.github.com/en/actions/reference/events-that-trigger-workflows#pull_request_target) GitHub action.
+The `reproduction and validation stages of the fair-ground are run in the trusted environment of the base repository by way of a [pull_request_target](https://docs.github.com/en/actions/reference/events-that-trigger-workflows#pull_request_target) GitHub action.
 These stages only run a minimal amount of code that is defined by the App fork: the code that is defined in the `Package.swift` file, which is run in the [restrictive sandboxed environment of the Swift Package Manager](https://swift.org/blog/swift-4-0-released/#package-manager-updates).
 Since arbitrary code execution could threaten the secure environment of the base repository, and because the fair-ground's build process needs to be able to create and release apps quickly, it does not run any test code for the apps it builds.
 
@@ -1699,7 +1699,7 @@ Both the [appfair/Fair.git](https://github.com/fair-ground/Fair.git) and [appfai
 
 The "App Fair" is the reference implementation of a fair-ground, using a model of non-commercial open-source projects for developers and mandating source transparency and the explicit disclosure of security entitlements.
 Alternative fair-ground models are possible by simply mirroring the structure and repositories of the `appfair` organization.
-Many of the App Fair's policies are simply flags that can be set on the [fairtool](#fairtool) `fair validate` action that is run during the `integrate` stage.
+Many of the App Fair's policies are simply flags that can be set on the [fairtool](#fairtool) `fair validate` action that is run during the validation stage.
 The bulk of the fair-ground's logic, as well as the runtime code for fair-ground integration, is in the [Fair](https://github.com/fair-ground/Fair) library, which you can customize to handle your own implementation's policies, restrictions, and commerce needs.
 
 ## Can I run a fair-ground on a self-hosted runner?
@@ -1717,12 +1717,12 @@ This limit is a consequence of [GitHub's API rate limit](https://docs.github.com
 
 ### Debugging a failed integration 
 
-Once you submit your PR your `/App-Name/App.git` fork ([/appfair/App/pulls](https://github.com/appfair/App/pulls)), the App Fair's `integrate-release` process is initiated with an action: [/appfair/App/actions](https://github.com/appfair/App/actions).
+Once you submit your PR your `/App-Name/App.git` fork ([/appfair/App/pulls](https://github.com/appfair/App/pulls)), the App Fair's reproduction and validation workflows are initiated with an action: [/appfair/App/actions](https://github.com/appfair/App/actions).
 This process verifies, builds, and tests your app using an action that is outside of your control.
 This means that care must be taken to keep the build process working as expected.
-Notably, you should not make changes to the template file `Sources/App/AppMain.swift` (where modifications are explicitly prohibited), nor should you make major changes to the Xcode project files (since `integrate` process restricts certain alterations to the base template `project.xcodeproj`).
+Notably, you should not make changes to the template file `Sources/App/AppMain.swift` (where modifications are explicitly prohibited), nor should you make major changes to the Xcode project files (since validation process restricts certain alterations to the base template `project.xcodeproj`).
 
-When a failure occurs in the `integrate-release` stages, you will typically get an e-mail (contingent on your GitHub notification settings).
+When a failure occurs in the reproduction and validation stages, you will typically get an e-mail (contingent on your GitHub notification settings).
 The first place you should look is at the log for the [/appfair/App/actions](https://github.com/appfair/App/actions) that corresponds to your pull request.
 The log will identify most common issues, such as an invalid license or e-mail address.
 
@@ -1735,20 +1735,20 @@ fairtool fair validate --verbose true --hub github.com/appfair --org App-Name --
 ```
 
 This command will analyze both the structure and content of the current package, as well as check the proper configuration for the `App-Name` project.
-Note that this is exactly the same process that the `integrate` stage executes, so using the `fairtool` is a good validation test to run yourself before creating or updating an existing PR.
+Note that this is exactly the same process that the validation stage executes, so using the `fairtool` is a good validation test to run yourself before creating or updating an existing PR.
 
 # Appendix
 
 ## Glossary
 
-  * `fair-ground`: A fair-ground is a platform for app distribution. It is the abstract name for the hosted service(s) that provides the resources for the `Fork-Apply-Integrate-Release` process of app ingestion and distribution.
-  * FAIR: The `Fork-Apply-Integrate-Release` process summarizes a system whereby developers create apps by forking a fair-ground's base repository and applying their changes to back to the base in the form of a pull request. This is followed by an `integrate` stage that ingests, validates, and builds the app, verifies the creator's organization standing, and then initiates a `release` stage that publishes the build artifacts to an app cataloging and distribution system.
+  * `fair-ground`: A fair-ground is a platform for app distribution. It is the abstract name for the hosted service(s) that provides the resources for the process of app validation and distribution.
+  * FAIR: A `Federated App Index Repository` process summarizes a system whereby developers create apps by forking a fair-ground's base repository and applying their changes to back to the base in the form of a pull request. This is followed by an `integrate` stage that ingests, validates, and builds the app, verifies the creator's organization standing, and then initiates a `release` stage that publishes the build artifacts to an app cataloging and distribution system.
   * `Fair.git`: An SPM package hosted at [https://github.com/fair-ground/Fair.git](https://github.com/fair-ground/Fair.git) that has targets for the `FairCore`, `FairApp`, `FairKit`, and `FairExpo` swift modules, as well as the cross-platform [fairtool](#fairtool) CLI utility that is used to manage a fairground.
   * Fair Module: A Swift 5.5 library that acts as the entry point to all apps that are distributed via a fair-ground; the library provides a container environment with features such as automatic addition of Help and Support menus, as well as runtime validation of security features. All apps distributed via a fair-ground are required to have the HEAD of `Fair.git` as their initial SPM dependency.
-  * `fairtool`: The [fairtool](#fairtool) is an executable tool that is included with the `Fair.git` package, and is thereby included with all apps that link to the `Fair (runtime)`. The `fairtool` utility is used to validate and merge `integrate-release` requests by the trusted fair-ground build process. The tool can also be used to initialize a new fair-ground with template code for a new base repository. The utility can be run with the command: `swift run fairtool`.
+  * `fairtool`: The [fairtool](#fairtool) is an executable tool that is included with the `Fair.git` package, and is thereby included with all apps that link to the `Fair (runtime)`. The `fairtool` utility is used to validate and merge reproduction requests by the trusted fair-ground build process. The tool can also be used to initialize a new fair-ground with template code for a new base repository. The utility can be run with the command: `swift run fairtool`.
   * `fairseal`: the cryptographic hash of the app binary that has been validated by the trusted base fair-ground. This hash must be present in order to an app to be installable by the catalog application, and the hash must match the content of the binary that is downloaded from the app fork's releases page. The fairseal is automatically generated by the [fairtool](#fairtool) when it passes the integration-release stage
   * `fairrisk`: a score from 0.0–1.0 that summarizes the system's assessment of how much capacity for harm exists in a piece of software.
-  * App Fair: The App Fair is the name of a fair-ground hosted at [https://www.appfair.net](https://www.appfair.net) that uses GitHub as its host for the `fork-apply` (F-A) stages, and uses GitHub Actions for the `integrate-release` (I-R) process and catalog hosting. The App Fair mandates source transparency and comprehensive security entitlement disclosure.
+  * App Fair: The App Fair is the name of a fair-ground hosted at [https://www.appfair.net](https://www.appfair.net) that uses GitHub as its host for the app builds, and uses GitHub Actions for the Fairground reproductions and catalog hosting. The App Fair mandates source transparency and comprehensive security entitlement disclosure.
  
    
 ## App Fair Distribution Checklist
@@ -1806,7 +1806,7 @@ Use this checklist to ensure that your app is set up properly for distribution i
   
 ### Post Release
  
-  1. Did the integrate-release action in the base fair-ground that was triggered by your pull request succeed?
+  1. Did the reproduction action in the base fair-ground that was triggered by your pull request succeed?
   1. Are there any logged errors about failures in `fairseal` generation?
   1. Does the SHA-256 hash of your fork's released `.zip`/`.ipa` binary exactly match the `fairseal` that is contained in the App Fair catalog?
  

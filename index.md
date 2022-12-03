@@ -7,9 +7,9 @@ title: The App Fair
 <img alt="The App Fair icon" align="center" style="height: 20vh;" src="appfair-icon.svg" />
 </p>
 
-A Federated App Index Repository (FAIR) is part of a decentralized network of app stores, enabling users of iPhones and other devices to choose the sources of the applications and extensions they want to use. The App Fair (appfair.net) is one such "Fairground", and provides a set of open-source [tools](https://github.com/fair-ground/Fair.git), runtime libraries, specifications, and documentation to support this interoperarable federation of trusted software repositories. 
+A Federated App Index Repository (FAIR) is part of a decentralized network of app stores, enabling users of iPhones and other devices the choice of trusted sources for the applications and extensions they want to use. The App Fair (appfair.net) is one such "Fairground", and provides a set of open-source [tools](https://github.com/fair-ground/Fair.git), runtime libraries, specifications, and documentation to support this interoperarable federation of trusted software repositories. 
 
-Anyone can create an app for the App Fair, just as anyone can create their own App Store use the Fairground tools.
+Anyone can create an app for the App Fair, just as anyone can create their own App Store using the fairground tools.
 
 ### Background: The Monolithic App Store Model
 
@@ -51,7 +51,7 @@ Such remediation is often effective but can be unevenly applied due to subjectiv
 
 ### The Federated App Index Repository (FAIR) Model
 
-In countrast, a Fairground is a part of a federation of app creators who are able to establish trust by opening the source code of their apps to public scrutiny and review. 
+In countrast, a “fairground” is a part of a federation of app creators and distributors who establish mutual trust by opening the source code of their apps to public scrutiny and security review. 
 
 Rather that having a contractual relationship between the Fairground and the App Creator, as with the App Store model, the Fairground instead confers trust on apps that it vends by guaranteeing that the published source code is the exact same code that was used to create the application binary that is installed on the end user's device. This prevents many classes of malware and dark patterns by ensuring that the public has the ability to review the blueprints of the apps that they trust with their personal and intimate information.
 

@@ -7,7 +7,7 @@ title: The App Fair
 <img alt="The App Fair icon" align="center" style="height: 20vh;" src="appfair-icon.svg" />
 </p>
 
-A Federated App Index Repository (FAIR) is part of a decentralized network of app stores, enabling users of iPhones and other devices the choice of trusted sources for the applications and extensions they want to use. The App Fair (appfair.net) is one such "Fairground", and provides a set of open-source [tools](https://github.com/fair-ground/Fair.git), runtime libraries, specifications, and documentation to support this interoperarable federation of trusted software repositories. 
+A Federated App Index Repository (FAIR) is part of a decentralized network of app stores, providing users of iPhones and other devices a choice of trusted sources for the applications and extensions they want to use. The App Fair (appfair.net) is one such "Fairground", and provides a set of open-source [tools](https://github.com/fair-ground/Fair.git), runtime libraries, specifications, and documentation to support this interoperarable federation of trusted software repositories. 
 
 Anyone can create an app for the App Fair, just as anyone can create their own App Store using the fairground tools.
 

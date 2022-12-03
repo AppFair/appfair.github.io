@@ -54,7 +54,7 @@ In countrast, a Fairground is a part of a federation of app creators who are abl
 
 Rather that having a contractual relationship between the Fairground and the App Creator, as with the App Store model, the Fairground instead confers trust on apps that it vends by guaranteeing that the published source code is the exact same code that was used to create the application binary that is installed on the end user's device. This prevents many classes of malware and dark patterns by ensuring that the public has the ability to review the blueprints of the apps that they trust with their personal and intimate information.
 
-All Fairground apps are open-source, enabling the use of modern techniques and best practices such as reproducible builds, transitive source scanning, and cryptographic signatures to notarize apps as being trustworthy. Remediation of bad behavior is accomplished through de-listing.
+All Fairground apps are open-source, enabling the use of modern techniques and best practices such as reproducible builds, transitive source scanning, and cryptographic signatures to notarize apps as being trustworthy. Remediation of bad behavior is accomplished through the de-listing and removal of malicious applications.
 
 ```mermaid
 flowchart LR
@@ -100,7 +100,7 @@ flowchart LR
 
 ### Fairground + App Store Tandem
 
-A Fairground works in concert with an App Store. It has the capacity to distribute apps both directly to users (via apps that are compliant with the AppIndex JSON format, such as App Fair.app), as well as through a centralized vendor storefront such as the App Store (by mediating the submission and management of apps through the Fairgrounds organization).
+A Fairground works in concert with an App Store. It has the capacity to distribute apps both directly to users (via apps that are compliant with the AppIndex JSON format, such as App Fair.app), as well as through a centralized vendor storefront such as the App Store (by mediating the submission and management of apps through a Fairground organization).
 
 
 ```mermaid
@@ -178,6 +178,46 @@ App that are distributed through the App Fair can additionally be made available
 <iframe src="https://player.vimeo.com/video/654949321?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 -->
 
+## The App Fair fair-ground
+
+The "fair-ground" is the name for the autonomous cataloging service that indexes the releases of forks of the base repository.
+It handles organization verification, app build validation, and cataloging of all the verified apps.
+
+The "App Fair" is the reference implementation of the fair-ground system, and is implemented as a set of GitHub repositories, workflows, and policies for cataloging the build artifacts of the app forks.
+The configuration for the App Fair is defined primarily in the [appfair/App.git](https://github.com/appfair/App.git) repository, which additionally acts as the base repository to be forked by app developers.
+
+### Introduction: the fairground process
+
+<img align="left" width="450" alt="Diagram of the App Fair process" src="assets/fairground.svg" />
+
+The fairground process consists of the stages of creating, developing, building, and distributing an app.
+The creation, development, and release is handled by you, the developer: a fork is created from the base [`/appfair/App.git`](https://github.com/appfair/App.git) repository, and in that fork you develop your app.
+Once you enable GitHub actions for your fork, your app will be automatically built and released whenever you push a semantic version tag to your fork's repository.
+Since this fork is under the control of the developer, the fork is considered "untrusted", in that the app binary artifact that is built and released has no security or safety guarantees.
+
+In order to be included in the App Fair catalog (and thus be discoverable and installable in the the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser app), the fork's release must be independently built and the results be verified as reproducible by the trusted base repository.
+This process is initiated by the fork's developer, who signals their desire to validate the release by creating a pull request (PR) from the fork's `/App.git` repository back to the base `/appfair/App.git` repository.
+
+The creation of the PR for the base `/appfair/App.git` repository will trigger the integrate process, which will verify and re-build the app's release in the trusted environment of the base fair-ground.
+Verification will guarantee that the resulting app binary is signed, sandboxed, and uses the hardened runtime, and validates that the resulting built binary is identical to the version that is being released in the app's fork.
+It will also verify various required metadata properties in the `appfair.xcconfig` and `Info.plist` files, such as the requirement that all security entitlements are given usage descriptions that will be communicated to end users before they can install the app.
+
+Once verification is completed, the fork's (untrusted) release artifact will be fetched and compared with the (trusted) binary that was built by the base fair-ground.
+If these binaries match, the fork's release artifact will be considered "trusted", and a cryptographic hash will be generated and published.
+This hash is known as the `fairseal` for the app, and is used by the catalog browser application to ensure that any app that is to be installed has passed the verification process.
+
+The final stage of the process is the "release", which is where the online catalog of App Fair apps is updated to include the newly built and verified forked app.
+The online catalog lists the most recently verified published release artifacts for all the public forks of the base repository.
+Once the fairseal has been generated for the app, it will be available for browsing and installing using the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser app)
+
+### Fair app development
+
+From an App developer standpoint, an App Fair app is a Swift application that is defined by a Swift Package Manager `Package.swift` file, and that uses of two source code repositories: *Fair.git* and *App.git*:
+ - [https://github.com/appfair/App.git](https://github.com/appfair/App.git) is the repository that is forked to create a new  App Fair app; PRs submitted to this repository are automatically built and released to the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog.
+ - [https://github.com/fair-ground/Fair.git](https://github.com/fair-ground/Fair.git) is the runtime `SwiftUI` library that is included in every App Fair project, and acts as a sandboxed container within which your application is run. The `Fair` library is the sole required dependency for your app's `Package.swift` manifest.
+
+
+
 ## Quick Start
 
 Anyone can create and publish their own app on the App Fair, for free, using only a web browser.
@@ -249,44 +289,6 @@ And for finishing touches you can fill in your `README.md` with a description of
 
 Continue reading for the full development guide, FAQs, and discussion of the security and source disclosure mechanisms for fair-ground apps. Jump right in and start developing your own native app!
 
-
-## The App Fair fair-ground
-
-The "fair-ground" is the name for the autonomous cataloging service that indexes the releases of forks of the base repository.
-It handles organization verification, app build validation, and cataloging of all the verified apps.
-
-The "App Fair" is the reference implementation of the fair-ground system, and is implemented as a set of GitHub repositories, workflows, and policies for cataloging the build artifacts of the app forks.
-The configuration for the App Fair is defined primarily in the [appfair/App.git](https://github.com/appfair/App.git) repository, which additionally acts as the base repository to be forked by app developers.
-
-### Introduction: the fairground process
-
-<img align="left" width="450" alt="Diagram of the App Fair process" src="assets/fairground.svg" />
-
-The fairground process consists of the stages of creating, developing, building, and distributing an app.
-The creation, development, and release is handled by you, the developer: a fork is created from the base [`/appfair/App.git`](https://github.com/appfair/App.git) repository, and in that fork you develop your app.
-Once you enable GitHub actions for your fork, your app will be automatically built and released whenever you push a semantic version tag to your fork's repository.
-Since this fork is under the control of the developer, the fork is considered "untrusted", in that the app binary artifact that is built and released has no security or safety guarantees.
-
-In order to be included in the App Fair catalog (and thus be discoverable and installable in the the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser app), the fork's release must be independently built and the results be verified as reproducible by the trusted base repository.
-This process is initiated by the fork's developer, who signals their desire to validate the release by creating a pull request (PR) from the fork's `/App.git` repository back to the base `/appfair/App.git` repository.
-
-The creation of the PR for the base `/appfair/App.git` repository will trigger the integrate process, which will verify and re-build the app's release in the trusted environment of the base fair-ground.
-Verification will guarantee that the resulting app binary is signed, sandboxed, and uses the hardened runtime, and validates that the resulting built binary is identical to the version that is being released in the app's fork.
-It will also verify various required metadata properties in the `appfair.xcconfig` and `Info.plist` files, such as the requirement that all security entitlements are given usage descriptions that will be communicated to end users before they can install the app.
-
-Once verification is completed, the fork's (untrusted) release artifact will be fetched and compared with the (trusted) binary that was built by the base fair-ground.
-If these binaries match, the fork's release artifact will be considered "trusted", and a cryptographic hash will be generated and published.
-This hash is known as the `fairseal` for the app, and is used by the catalog browser application to ensure that any app that is to be installed has passed the verification process.
-
-The final stage of the process is the "release", which is where the online catalog of App Fair apps is updated to include the newly built and verified forked app.
-The online catalog lists the most recently verified published release artifacts for all the public forks of the base repository.
-Once the fairseal has been generated for the app, it will be available for browsing and installing using the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser app)
-
-### Fair app development
-
-From an App developer standpoint, an App Fair app is a Swift application that is defined by a Swift Package Manager `Package.swift` file, and that uses of two source code repositories: *Fair.git* and *App.git*:
- - [https://github.com/appfair/App.git](https://github.com/appfair/App.git) is the repository that is forked to create a new  App Fair app; PRs submitted to this repository are automatically built and released to the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog.
- - [https://github.com/fair-ground/Fair.git](https://github.com/fair-ground/Fair.git) is the runtime `SwiftUI` library that is included in every App Fair project, and acts as a sandboxed container within which your application is run. The `Fair` library is the sole required dependency for your app's `Package.swift` manifest.
 
 
 ## The Structure of an App Fair app

@@ -9,7 +9,7 @@ title: The App Fair
 
 A Federated App Index Repository (FAIR) is part of a decentralized network of app stores, enabling users of iPhones and other devices to choose the sources of the applications and extensions they want to use. The App Fair (appfair.net) is one such "Fairground", and provides a set of open-source [tools](https://github.com/fair-ground/Fair.git), runtime libraries, specifications, and documentation to support this interoperarable federation of trusted software repositories. 
 
-Anyone can create an app for the App Fair, just as anyone can create a Fairground as their own app store.
+Anyone can create an app for the App Fair, just as anyone can instantiate a Fairground as their own app store.
 
 ### Background: The Monolithic App Store Model
 
@@ -98,7 +98,10 @@ flowchart LR
     class RELDL,e untrusted
 ```
 
-### FAIR + App Store Tandem
+### Fairground + App Store Tandem
+
+A Fairground works in concert with an App Store. It has the capacity to distribute apps both directly to users (via apps that are compliant with the AppIndex JSON format, such as App Fair.app), as well as through a centralized vendor storefront such as the App Store (by mediating the submission and management of apps through the Fairgrounds organization).
+
 
 ```mermaid
 flowchart LR
@@ -154,60 +157,6 @@ flowchart LR
     class AppFairApp,e trusted
     class RELDL,e untrusted
 ```
-
-## The macOS App
-
-The App Fair app catalog can be accessed using `App Fair.app`, which is a native app for macOS 12.5 that can be downloaded from [appfair.app](https://appfair.app).
-New users should start by downloading this app and exploring its features and capabilities.
-For help and assistance with the App Fair application itself,
-visit the [project discussions](https://github.com/App-Fair/App/discussions),
-join the [discord channel](https://discord.gg/R4bFP8qpw7),
-and browse the [issue reports](https://github.com/App-Fair/App/issues).
-
-The rest of this document serves as a guide for the development and publication of your own apps on the appfair.net [app source](#appsource) catalog;
-It assumes some familiarity with GitHub and software development in the Swift programming language.
-
-## The App Fair for End Users
-
-<a href="assets/app-fair-app.png" target="_blank"><img align="right" width="50%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" /></a>
-
-From an end-user perspective, the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser is a graphical tool that enables users to search, browse, compare, appraise, install, and update apps from an unlimited online collection of free and open-source applications. 
-
-Apps installed through the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> application are built using the platform-native `SwiftUI` framework and compiled for both Intel and ARM processors, thereby enabling higher performance, lower memory consumption, and more efficient resource utilization than can be achieved with non-native cross-platform application frameworks.
-
-At the same time, they use modern "Sandboxing" techniques to protect your system and ensure that you are always aware of what actions the apps are permitted to take, such as reading and writing files, communicating over the internet, or accessing your camera, microphone, and other connected devices.
-And since they rely on the native frameworks of the system, they tend to be quite compact (a few megabytes compressed), and so are quicker to download and launch than a typical web app.
-
-### Getting Started
-
-The App Fair catalog browser app can be installed on macOS 12.5 "Monterey" by downloading [App-Fair-macOS.zip](https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip).
-The app can be dragged from the Downloads folder into the `/Applications` folder, from where it can be launched.
-
-
-Alternatively, [homebrew](https://brew.sh) users can install the App Fair app with the command:
-
-```
-brew install appfair/app/app-fair 
-```
-
-And for those who want a headless installation but do not have homebrew,
-the app can be downloaded and installed fresh with the command:
-
-```
-bash -c "$(curl -fsSL https://appfair.net/install.sh)"
-```
-
-Both of these commands will download the latest release zip and install it directly into your `/Applications/` folder.
-From there, you can launch the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser application to start searching for apps to install.
- 
-### App Fair Usage
-
-<img align="right" width="50%" alt="App Fair Browser App Preferences" src="assets/app-fair-prefs.png" />
-
-Apps that are installed by <a href="https://appfair.app" target="_blank">`App Fair.app`</a> are placed in `/Applications/App Fair/`.
-From there, they can be un-installed using the catalog app itself, or they can be removed using the standard macOS method of dragging the app icon into the trash.
-
-The App Fair catalog browser has preferences for the user's "Risk Exposure", which is a threshold of app permissions that will be presented to the user. Apps distributed through the App Fair are required to enumerate all the sensitive actions that they can perform, such as reading and writing files outside of the app's "sandbox", as well as accessing the internet or using the microphone or camera. 
 
 ## The App Fair for App Developers
 
@@ -989,6 +938,65 @@ Along with these preventative layers of protection, macOS itself provides multip
   * built-in antivirus technology called "XProtect" performs signature-based detection of malware using a database that is updated regularly with signatures of newly-identified malware infections and strains
 
   * the "Malware Removal Tool" (MRT) process remediates infections based on automatic updates of system data files and security information. The MRT removes malware upon receiving updated information, and it continues to check for infections on restart and login.
+
+
+
+
+## The macOS App
+
+The App Fair app catalog can be accessed using `App Fair.app`, which is a native app for macOS 12.5 that can be downloaded from [appfair.app](https://appfair.app).
+New users should start by downloading this app and exploring its features and capabilities.
+For help and assistance with the App Fair application itself,
+visit the [project discussions](https://github.com/App-Fair/App/discussions),
+join the [discord channel](https://discord.gg/R4bFP8qpw7),
+and browse the [issue reports](https://github.com/App-Fair/App/issues).
+
+The rest of this document serves as a guide for the development and publication of your own apps on the appfair.net [app source](#appsource) catalog;
+It assumes some familiarity with GitHub and software development in the Swift programming language.
+
+## The App Fair for End Users
+
+<a href="assets/app-fair-app.png" target="_blank"><img align="right" width="50%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" /></a>
+
+From an end-user perspective, the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser is a graphical tool that enables users to search, browse, compare, appraise, install, and update apps from an unlimited online collection of free and open-source applications. 
+
+Apps installed through the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> application are built using the platform-native `SwiftUI` framework and compiled for both Intel and ARM processors, thereby enabling higher performance, lower memory consumption, and more efficient resource utilization than can be achieved with non-native cross-platform application frameworks.
+
+At the same time, they use modern "Sandboxing" techniques to protect your system and ensure that you are always aware of what actions the apps are permitted to take, such as reading and writing files, communicating over the internet, or accessing your camera, microphone, and other connected devices.
+And since they rely on the native frameworks of the system, they tend to be quite compact (a few megabytes compressed), and so are quicker to download and launch than a typical web app.
+
+### Getting Started
+
+The App Fair catalog browser app can be installed on macOS 12.5 "Monterey" by downloading [App-Fair-macOS.zip](https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip).
+The app can be dragged from the Downloads folder into the `/Applications` folder, from where it can be launched.
+
+
+Alternatively, [homebrew](https://brew.sh) users can install the App Fair app with the command:
+
+```
+brew install appfair/app/app-fair 
+```
+
+And for those who want a headless installation but do not have homebrew,
+the app can be downloaded and installed fresh with the command:
+
+```
+bash -c "$(curl -fsSL https://appfair.net/install.sh)"
+```
+
+Both of these commands will download the latest release zip and install it directly into your `/Applications/` folder.
+From there, you can launch the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser application to start searching for apps to install.
+ 
+### App Fair Usage
+
+<img align="right" width="50%" alt="App Fair Browser App Preferences" src="assets/app-fair-prefs.png" />
+
+Apps that are installed by <a href="https://appfair.app" target="_blank">`App Fair.app`</a> are placed in `/Applications/App Fair/`.
+From there, they can be un-installed using the catalog app itself, or they can be removed using the standard macOS method of dragging the app icon into the trash.
+
+The App Fair catalog browser has preferences for the user's "Risk Exposure", which is a threshold of app permissions that will be presented to the user. Apps distributed through the App Fair are required to enumerate all the sensitive actions that they can perform, such as reading and writing files outside of the app's "sandbox", as well as accessing the internet or using the microphone or camera. 
+
+
 
 
 # Troubleshooting and Frequently Asked Questions

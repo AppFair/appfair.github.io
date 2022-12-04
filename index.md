@@ -52,6 +52,7 @@ flowchart LR
     class D,e untrusted
 </pre>
 
+
 Because the App Store vendor does not require access to the underlying source code of the apps it re-distributes, trust is only maintained through a contractual agreement between the two parties that assigns a dependent economic relationship and legal consequence to the app creator for any flagrant violations or indictments of bad behavior (such as publishing malware, virus transmission, information exfiltration, illicit tracking and spyware, exploitative behavior, etc.).
 
 Such remediation can be effective but is unevenly applied due to subjective factors, corporate priorities, and legal obligations on the part of the App Store vendor. The result is that many applications advertised and promoted in the centralized App Stores are untrustworthy or outright malicious, while many other potentially useful apps are blocked from distribution to the public over policy or competitive differences. In addition, the App Store vendor may enact practices that are outright hostile to both the end-user as well as the app creator, such as injected advertising, tracking, and the imposition of economic rents or “taxes” on all commerce that flows through their domain.

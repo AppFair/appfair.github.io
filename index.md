@@ -7,7 +7,7 @@ title: The App Fair
 <img alt="The App Fair icon" align="center" style="height: 20vh;" src="appfair-icon.svg" />
 </p>
 
-A Federated App Index Repository (FAIR) is part of a decentralized network of app stores, providing users of iPhones and other devices a choice of trusted sources for the applications and extensions they want to install and use. 
+A Federated App Index Repository (FAIR) is part of a decentralized network of app stores, providing users of iPhones and other devices a choice of trusted sources for the applications and extensions they can install and use. 
 
 The App Fair ([https://appfair.net](https://appfair.net)) is one such "Fairground", and provides a set of open-source [tools](https://github.com/fair-ground/Fair.git), runtime libraries, specifications, and documentation to support this interoperable federation of trusted software repositories. The App Fair is managed by the non-profit [App Fair Project Corporation (https://appfair.org)](https://appfair.org) of Boston, Massachusetts.
 
@@ -48,7 +48,7 @@ flowchart LR
 
 Because the App Store vendor does not require access to the underlying source code of the apps it re-distributes, trust is only maintained through a contractual agreement between the two parties that assigns a dependent economic relationship and legal consequence to the app creator for any flagrant violations or indictments of bad behavior (such as publishing malware, virus transmission, information exfiltration, illicit tracking and spyware, exploitative behavior, etc.).
 
-Such remediation can be effective but is unevenly enforced due to subjective factors, corporate priorities, and legal obligations on the part of the App Store vendor. The result is that many applications advertised and promoted in the centralized App Stores are untrustworthy or outright malicious, while many other potentially useful apps are blocked from distribution to the public over policy or competitive differences. In addition, the App Store vendor may enact practices that are outright hostile to both the end-user as well as the app creator, such as injected advertising, tracking, and the imposition of economic rents or “taxes” on all commerce that flows through their domain.
+Such remediation can be effective but is unevenly applied due to subjective factors, corporate priorities, and legal obligations on the part of the App Store vendor. The result is that many applications advertised and promoted in the centralized App Stores are untrustworthy or outright malicious, while many other potentially useful apps are blocked from distribution to the public over policy or competitive differences. In addition, the App Store vendor may enact practices that are outright hostile to both the end-user as well as the app creator, such as injected advertising, tracking, and the imposition of economic rents or “taxes” on all commerce that flows through their domain.
 
 
 ### The Federated App Index Repository (FAIR) Model
@@ -161,70 +161,13 @@ flowchart LR
     class RELDL,e untrusted
 ```
 
+By distributing to App Stores using a Fairground, developers get the best of both worlds: distribution directly to the consumer through a Fairgroup as well as re-distribution through the platform-default storefront.
 
-
-### Fairground + Multiple App Stores Tandem
-
-```mermaid
-flowchart LR
-    DEV((Developer\nOrganization)) --  Design\nBuild\nDocument\nTest --> PREP(Prepare\nRelease)
-
-    PREP -- Submit Merge\nPull Request --- C>Replication\nAutomation]
-    PREP -- Create\nRelease --- D>Build\nAutomation]
-    D -- App.ipa --> RELDL[(Web Site\nApp1.ipa\nDownloads)]
-    C -- App2.ipa ---> VERIFY{{Match\nScan\nIndex\nSign}}
-
-    RELDL <-.-> VERIFY
-    RELDL <-.-> AppFairApp([App Fair.app])
-    RELDL <-.-> AppFairApk([App Fair.apk])
-
-    VERIFY --  Publish Seal\nMetadata ---> PAC[(AppSource\nCatalog\nJSON)]
-    VERIFY -- Signed\nApp.ipa --> ValidatedApp{{Validate App\nfor Publication}}
-
-    PAC <--> AppFairApp
-
-    ValidatedApp -- fastlane --> PubAppStore[(App Store\nConnect)]
-
-    PubAppStore <--> AppStoreApp([App Store.app\nTestFlight.app])
-    AppFairApp <--> CONSUMER((Consumer))
-    AppStoreApp <--> CONSUMER
-    DEV <== Contract ==> PubAppStore
-
-    classDef untrusted fill:orange,stroke:#333,stroke-width:2px;
-    classDef neutral fill:skyblue,stroke:#333,stroke-width:2px;
-    classDef trusted fill:lightgreen,stroke:#000,stroke-width:2px;
-    classDef vendor fill:gold,stroke:#000,stroke-width:2px;
-
-    class DEV,e untrusted
-    class PREP,e untrusted
-    class CONSUMER,e neutral
-    class PubAppStore,e vendor
-    class TestFlight,e vendor
-    class AppStoreApp,e vendor
-    class MDM,e vendor
-    class D,e untrusted
-
-    class DEV,e untrusted
-    class PREP,e untrusted
-    class CONSUMER,e neutral
-
-    class PubAppStore,e trusted
-    class ValidatedApp,e trusted
-    class TestFlight,e trusted
-    class AppStoreApp,e trusted
-    class MDM,e trusted
-    class D,e untrusted
-    class VERIFY,e trusted
-    class C,e trusted
-    class PAC,e trusted
-    class AppFairApp,e trusted
-    class RELDL,e untrusted
-```
 
 ## The App Fair for App Developers
 
 App Fair apps are written in Swift and utilize a native `SwiftUI` user interface. 
-Apps target macOS 12 "Monterey" and Swift version 5.5, giving them access to modern Swift features like async/await.
+Apps target iOS16/macOS14 and Swift version 5.7, giving them access to modern Swift features like async/await and structured concurrency.
 
 The distribution process for App Fair apps is instantaneous, automatic, and free.
 The only requirement is a GitHub account and a willingness to share your work freely with the rest of the world.

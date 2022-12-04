@@ -3,12 +3,6 @@ name: AppFair
 title: The App Fair
 ---
 
-<script type="module">
-  import mermaid from 'https://unpkg.com/mermaid@9/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
-
-
 <p align="center">
 <img alt="The App Fair icon" align="center" style="height: 20vh;" src="appfair-icon.svg" />
 </p>
@@ -23,7 +17,7 @@ Anyone can create an app for the App Fair, just as anyone can create their own A
 
 The dominant commercial model for how an app gets from a developer to a consumer/user is to have a single intermediary “store” that serves as the clearinghouse for all apps that can be installed on a certain vendor's device. A user that trusts the App Store vendor (colored gold in the diagram) will thereby implicitly trust any app creator (colored orange) whose app makes it through to publication on the storefront.
 
-<pre class="mermaid">
+```mermaid
 flowchart LR
     DEV((Developer\nOrganization)) --  Design\nBuild\nDocument\nTest --> PREP(Prepare\nRelease)
     PREP -- Package\nRelease --> D(Tools\nIDE\nXcode)
@@ -50,8 +44,7 @@ flowchart LR
     class AppStoreApp,e vendor
     class MDM,e vendor
     class D,e untrusted
-</pre>
-
+```
 
 Because the App Store vendor does not require access to the underlying source code of the apps it re-distributes, trust is only maintained through a contractual agreement between the two parties that assigns a dependent economic relationship and legal consequence to the app creator for any flagrant violations or indictments of bad behavior (such as publishing malware, virus transmission, information exfiltration, illicit tracking and spyware, exploitative behavior, etc.).
 
@@ -1917,4 +1910,11 @@ You can include the App Fair badge with the following HTML:
 https://github.com/fair-ground/Fair.git -> https://github.com/fair-ground/Fair.git
 https://github.com/appfair/App.git
 -->
+
+
+<script type="module">
+  import mermaid from 'https://unpkg.com/mermaid@9/dist/mermaid.esm.min.mjs';
+  mermaid.init({ startOnLoad: false }, '.language-mermaid');
+</script>
+
 

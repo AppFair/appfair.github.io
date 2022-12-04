@@ -1,3 +1,4 @@
 #theme: jekyll-theme-hacker
 name: appfair.net
+gems: [jekyll-mermaid]
 

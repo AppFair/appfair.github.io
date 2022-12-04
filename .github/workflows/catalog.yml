@@ -167,7 +167,6 @@ jobs:
           mv fairapps-ios_new.json fairapps-ios.json || echo "No fairapps-ios_new.json"
 
       - name: Generate appcasks catalog
-        if: false # disabled to speed up jekyll testing
         run: |
           cp appcasks.json appcasks_old.json && touch appcasks_old.json || echo "no existing appcasks.json"
 

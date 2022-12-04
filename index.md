@@ -103,7 +103,7 @@ flowchart LR
 
 ### Fairground + App Store Tandem
 
-A Fairground works in concert with an App Store. It has the capacity to distribute apps both directly to users (via apps that are compliant with the AppIndex JSON format, such as App Fair.app), as well as through a centralized vendor storefront such as the App Store (by mediating the submission and management of apps through a Fairground organization).
+A Fairground can operate in concert with distribution through an App Store. It has the capacity to distribute apps both directly to users (via apps that are compliant with the AppIndex JSON format, such as App Fair.app), as well as through a centralized vendor storefront such as the App Store (by mediating the submission and management of apps through a Fairground organization).
 
 
 ```mermaid
@@ -117,6 +117,66 @@ flowchart LR
 
     RELDL <-.-> VERIFY
     RELDL <-.-> AppFairApp([App Fair.app])
+
+    VERIFY --  Publish Seal\nMetadata ---> PAC[(AppSource\nCatalog\nJSON)]
+    VERIFY -- Signed\nApp.ipa --> ValidatedApp{{Validate App\nfor Publication}}
+
+    PAC <--> AppFairApp
+
+    ValidatedApp -- fastlane --> PubAppStore[(App Store\nConnect)]
+
+    PubAppStore <--> AppStoreApp([App Store.app\nTestFlight.app])
+    AppFairApp <--> CONSUMER((Consumer))
+    AppStoreApp <--> CONSUMER
+    DEV <== Contract ==> PubAppStore
+
+    classDef untrusted fill:orange,stroke:#333,stroke-width:2px;
+    classDef neutral fill:skyblue,stroke:#333,stroke-width:2px;
+    classDef trusted fill:lightgreen,stroke:#000,stroke-width:2px;
+    classDef vendor fill:gold,stroke:#000,stroke-width:2px;
+
+    class DEV,e untrusted
+    class PREP,e untrusted
+    class CONSUMER,e neutral
+    class PubAppStore,e vendor
+    class TestFlight,e vendor
+    class AppStoreApp,e vendor
+    class MDM,e vendor
+    class D,e untrusted
+
+    class DEV,e untrusted
+    class PREP,e untrusted
+    class CONSUMER,e neutral
+
+    class PubAppStore,e trusted
+    class ValidatedApp,e trusted
+    class TestFlight,e trusted
+    class AppStoreApp,e trusted
+    class MDM,e trusted
+    class D,e untrusted
+    class VERIFY,e trusted
+    class C,e trusted
+    class PAC,e trusted
+    class AppFairApp,e trusted
+    class RELDL,e untrusted
+```
+
+
+
+### Fairground + Multiple App Stores Tandem
+
+```mermaid
+flowchart LR
+    DEV((Developer\nOrganization)) --  Design\nBuild\nDocument\nTest --> PREP(Prepare\nRelease)
+
+    PREP -- Submit Merge\nPull Request --- C>Replication\nAutomation]
+    PREP -- Create\nRelease --- D>Build\nAutomation]
+    D -- App.ipa --> RELDL[(Web Site\nApp1.ipa\nDownloads)]
+    C -- App2.ipa ---> VERIFY{{Match\nScan\nIndex\nSign}}
+
+    RELDL <-.-> VERIFY
+    RELDL <-.-> AppFairApp([App Fair.app])
+    RELDL <-.-> AppFairApk([App Fair.apk])
 
     VERIFY --  Publish Seal\nMetadata ---> PAC[(AppSource\nCatalog\nJSON)]
     VERIFY -- Signed\nApp.ipa --> ValidatedApp{{Validate App\nfor Publication}}
@@ -1814,6 +1874,79 @@ Use this checklist to ensure that your app is set up properly for distribution i
   1. Did the reproduction action in the base fair-ground that was triggered by your pull request succeed?
   1. Are there any logged errors about failures in `fairseal` generation?
   1. Does the SHA-256 hash of your fork's released `.zip`/`.ipa` binary exactly match the `fairseal` that is contained in the App Fair catalog?
+ 
+## Future Direction
+
+
+
+```mermaid
+flowchart LR
+    DEV((Developer\nOrganization)) --  Design\nBuild\nDocument\nTest --> PREP(Prepare\nRelease)
+
+    PREP -- Submit Merge\nPull Request --- C>Replication\nAutomation]
+    PREP -- Create\nRelease --- D>Build\nAutomation]
+    D -- App.ipa\nApp.apk --> RELDL[(Web Site\nApp1.ipa/App1.apk\nDownloads)]
+    C -- App2.ipa\nApp2.apk ---> VERIFY{{Match\nScan\nIndex\nSign}}
+
+    RELDL <-.-> VERIFY
+    RELDL <-.-> AppFairApp([App Fair.app])
+    RELDL <-.-> AppFairApk([App Fair.apk])
+
+    VERIFY --  Publish Seal\nMetadata ---> PAC[(AppSource\nCatalog\nJSON)]
+    VERIFY -- Signed\nApp.ipa/App.apk --> ValidatedApp{{Validate App\nfor Publication}}
+
+    PAC <--> AppFairApp
+    PAC <--> AppFairApk
+
+    ValidatedApp -- fastlane --> PubAppStore[(App Store\nConnect)]
+    ValidatedApp -- fastlane --> PubPlayStore[(Play Store\nConnect)]
+
+    PubAppStore <--> AppStoreApp([App Store.app\nTestFlight.app])
+    AppFairApp <--> CONSUMER((iPhone\nConsumer))
+    AppStoreApp <--> CONSUMER
+
+    PubPlayStore <--> AppStoreApk([Play Store.apk])
+    AppFairApk <--> APKCONSUMER((Android\nConsumer))
+    AppStoreApk <--> APKCONSUMER
+
+    DEV <== Contract ==> PubAppStore
+    DEV <== Contract ==> PubPlayStore
+
+    classDef untrusted fill:orange,stroke:#333,stroke-width:2px;
+    classDef neutral fill:skyblue,stroke:#333,stroke-width:2px;
+    classDef trusted fill:lightgreen,stroke:#000,stroke-width:2px;
+    classDef vendor fill:gold,stroke:#000,stroke-width:2px;
+
+    class DEV,e untrusted
+    class PREP,e untrusted
+    class CONSUMER,e neutral
+    class PubAppStore,e vendor
+    class PubPlayStore,e vendor
+    class TestFlight,e vendor
+    class AppStoreApp,e vendor
+    class AppStoreApk,e vendor
+    class AppFairApk,e trusted
+    class MDM,e vendor
+    class D,e untrusted
+
+    class DEV,e untrusted
+    class PREP,e untrusted
+    class CONSUMER,e neutral
+    class APKCONSUMER,e neutral
+
+    class PubAppStore,e trusted
+    class ValidatedApp,e trusted
+    class TestFlight,e trusted
+    class AppStoreApp,e trusted
+    class MDM,e trusted
+    class D,e untrusted
+    class VERIFY,e trusted
+    class C,e trusted
+    class PAC,e trusted
+    class AppFairApp,e trusted
+    class RELDL,e untrusted
+```
+
  
 ## App Fair Badge
 

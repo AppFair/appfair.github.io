@@ -1917,4 +1917,3 @@ https://github.com/appfair/App.git
   mermaid.init({ startOnLoad: false }, '.language-mermaid');
 </script>
 
-

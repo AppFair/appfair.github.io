@@ -209,12 +209,11 @@ jobs:
           verbose: true
 
       - name: Build with Jekyll
-        # trying old actions/jekyll-build-pages@v1 first
-        if: false
-        # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+
+      - run: tree _site
 
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default

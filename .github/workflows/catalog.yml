@@ -22,6 +22,11 @@ env:
   # fairtool-head will build from source, which adds a few minutes
   #FAIRTOOL: "fairtool-head"
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 on:
   push:
     branches: [ main ]
@@ -229,10 +234,6 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
     runs-on: ubuntu-latest
     needs: build
     steps:

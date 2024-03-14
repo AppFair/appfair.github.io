@@ -209,6 +209,9 @@ jobs:
           verbose: true
 
       - name: Build with Jekyll
+        # using actions/jekyll-build-pages first
+        if: false
+        # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production

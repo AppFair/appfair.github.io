@@ -54,6 +54,7 @@ jobs:
           $FAIRTOOL version
 
       - name: "Configure posting auth"
+        if: false
         run: |
           # configure the posting auth just once
           echo "FAIRTOOL_TWITTER_USER=${{ secrets.APP_FAIR_TWITTER_USER }}" >> $GITHUB_ENV
@@ -63,6 +64,7 @@ jobs:
           echo "FAIRTOOL_TWITTER_TOKEN_SECRET=${{ secrets.APP_FAIR_TWITTER_TOKEN_SECRET }}" >> $GITHUB_ENV
 
       - name: Generate macOS catalog
+        if: false
         run: |
           cp fairapps-macos.json fairapps-macos_old.json && touch fairapps-macos_old.json || echo "no existing fairapps-macos.json"
           # TODO: save casks to https://github.com/appfair/homebrew-app/tree/main/Casks
@@ -105,6 +107,7 @@ jobs:
           mv fairapps-macos_new.json fairapps-macos.json || echo "No fairapps-macos_new.json"
 
       - name: Generate iOS catalog
+        if: false
         run: |
           cp fairapps-ios.json fairapps-ios_old.json && touch appcasks_old.json || echo "no existing fairapps-ios.json"
           $FAIRTOOL fair catalog \
@@ -194,7 +197,7 @@ jobs:
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v2
+        uses: actions/configure-pages@v4
 
       - name: Run Jekyll
         id: jekyll
@@ -215,7 +218,7 @@ jobs:
 
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
 
